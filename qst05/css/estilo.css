@@ -1,6 +1,11 @@
+body
+    {
+        background-color: aliceblue;
+    }
 h1
     {
         font-family: "Lucida Console", "Courier New", monospace;
+        text-align: center;
         color: black;
     }
 p 
@@ -8,6 +13,5 @@ p
         font-family: verdana;
         font-size: 15px;
         text-align: justify;
-        text-indent: 30px;
         color: blue;
     }
