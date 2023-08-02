@@ -1,21 +1,12 @@
-h1
-    {
-        font-family: "Lucida Console", "Courier New", monospace;
-        text-align: center;
-        color: black;
-    }
-p 
-    {
-        font-family: verdana;
-        font-size: 15px;
-        text-align: justify;
-        text-indent: 30px;
-        color: red;
-    }
-
 table, th, td 
     {
         border: 1px solid black;
         border-collapse: collapse;
         text-align: center;
+    }
+
+.centraliza
+    {
+        margin-left: auto;
+        margin-right: auto;
     }
