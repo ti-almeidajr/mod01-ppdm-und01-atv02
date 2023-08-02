@@ -5,6 +5,14 @@ table, th, td
         text-align: center;
     }
 
+th
+    {
+        font-family: "Lucida Console", "Courier New", monospace;
+        font-size: 25px;
+        text-align: center;
+        color: blue;
+    }
+
 .centraliza
     {
         margin-left: auto;
